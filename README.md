@@ -56,9 +56,10 @@ class MirkoStrauss:
 
 ### Roadmap
 
-- [x] Taught myself Python with books & tutorials
-- [x] Built my first website
-- [ ] Software Engineering & AI program – WBS Coding School *(in progress)*
+- [x] Built a solid Python foundation through self-study – books and video tutorials
+- [x] Designed and built my first website
+- [x] Built **J.A.R.V.I.S.**, an AI voice assistant with Flask and Gemini function calling – [view project](https://github.com/mirko-strauss/jarvis-voice-assistant)
+- [ ] Software Engineering & AI program – WBS Coding School *(in progress, until Sep 2027)*
 - [ ] Certifications: PCEP (Python) · AZ-900 (Azure)
 - [ ] Internship in software development – July/August 2027
 
